@@ -15,3 +15,4 @@
 **DESCRIPTION**: Create a simple responsive portfolio page using HTML & CSS.
 
 **OUTPUT OF TASK**:
+![Image](https://github.com/user-attachments/assets/ec02728e-1505-4dbb-a488-547532a7ea63)
